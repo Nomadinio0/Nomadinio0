@@ -1,4 +1,5 @@
-### Hi there 👋 I will fill this up soon...
+# I'm Artur 🙋‍♂️
+## Nice to see You here
 
 <!--
 **Nomadinio0/Nomadinio0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
