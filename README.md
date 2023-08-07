@@ -15,3 +15,7 @@ My first project, basicly a watchmaker website with few sub pages. Contact form 
 ### Calculator
 My latets project, multi featured calculator. I'm still working on it.
 - [Live Site URL](https://multicalculator-nomad.netlify.app)
+
+## Frontend Mentor Challenges
+I've done some challenges on Frontend Mentor. You can find live sites in each repository. Feel free to check them out and leave a feedback if You'd like. 😉
+- [Full list](https://github.com/stars/Nomadinio0/lists/frontend-mentor)
