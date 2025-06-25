@@ -4,7 +4,7 @@
 Born in Bytom, based in Katowice. 
 I've started my dev journey back at tech school with Pascal and C# basics, but back then I was not into it at all. 
 I'm an IT student, currently on 6th semester.
-I also like Darts.
+I also like playing Darts.
 
 ## Projects
 ### Online Dart App (in progress)
